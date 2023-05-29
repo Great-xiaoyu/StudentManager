@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="StudentManagerWeb:Web exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5fd15df9-b287-4741-b1ee-2ea279c199ae" name="Changes" comment="第一次提交代码">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/artifacts/KH56Project_Web_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/lib1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/lib__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KH56Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManagerWeb.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1969ee69-26e4-45c8-8b46-708c3e5119b6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1969ee69-26e4-45c8-8b46-708c3e5119b6/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1969ee69-26e4-45c8-8b46-708c3e5119b6/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1969ee69-26e4-45c8-8b46-708c3e5119b6/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/404.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/500.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/ischoolbar/programmer/servlet/CpachaServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/dao/AdminDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/dao/AttendanceDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/dao/BaseDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/dao/ClazzDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/dao/CourseDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/dao/LeaveDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/dao/ScoreDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/dao/SelectedCourseDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/dao/StudentDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/dao/TeacherDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/db/test.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/filter/LoginFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/model/Admin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/model/Attendance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/model/Clazz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/model/Course.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/model/Leave.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/model/Page.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/model/Score.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/model/SelectedCourse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/model/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/model/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/servlet/AttendanceServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/servlet/ClazzServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/servlet/CourseServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/servlet/CpachaServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/servlet/LeaveServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/servlet/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/servlet/PhotoServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/servlet/ScoreServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/servlet/SelectedCourseServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/servlet/StudentServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/servlet/SystemServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/servlet/TeacherServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/util/CpachaUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/util/DateFormatUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/util/DbUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/util/SnGenerateUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/classes/com/kgc/util/StringUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/lib/FilelLoad.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/lib/commons-beanutils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/lib/commons-beanutils-1.8.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/lib/commons-collections-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/lib/commons-dbutils-1.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/lib/commons-fileupload-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/lib/commons-io-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/lib/commons-lang-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/lib/commons-logging.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/lib/ezmorph-1.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/lib/json-lib-2.3-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/lib/jsonplugin-0.34.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/lib/jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/lib/poi-3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/lib/standard.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/css/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/css/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/jquery.easyui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/js/echarts.common.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/js/outlook2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/js/validateExtends.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/color.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/accordion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/calendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/combo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/combobox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/datagrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/datalist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/datebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/easyui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/filebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/images/accordion_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/images/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/images/calendar_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/images/combo_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/images/datagrid_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/images/datebox_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/images/layout_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/images/linkbutton_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/images/menu_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/images/messager_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/images/pagination_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/images/panel_tools.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/images/searchbox_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/images/slider_handle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/images/spinner_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/images/tabs_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/images/tree_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/images/validatebox_warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/linkbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/menubutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/messager.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/numberbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/pagination.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/panel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/progressbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/propertygrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/searchbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/spinner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/splitbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/tabs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/textbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/tooltip.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/tree.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/validatebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/default/window.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/2012080412263.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/asterisk_orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/basket_remove.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/book_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/book_open_mark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/book_previous.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/cancel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/chart_bar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/clear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/cut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/door_out.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/edit_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/edit_remove.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/filesave.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/filter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/find.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/folder_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/help.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/house.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/large_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/large_clipart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/large_picture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/large_shapes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/large_smartart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/lock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/man.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/mini_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/mini_edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/mini_refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/more.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/no.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/note.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/ok.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/pencil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/pencil_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/print.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/redo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/reload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/set.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/sum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/text_list_bullets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/text_list_numbers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/tip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/undo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/user_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/user_gray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/user_red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/vcard_edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/world.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/world_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/world_night.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/icons/zoom_in.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/easyui/themes/locale/easyui-lang-zh_CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/file/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/css/H-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/css/H-ui.login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/css/H-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/images/acrossTab-2bak.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/images/acrossTab-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/images/acrossTab-close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/images/acrossTab.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/images/admin-login-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/images/admin-loginform-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/images/gq/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/images/gq/cn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/images/gq/gj.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/images/gq/us.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/images/hamburger-retina.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/images/hamburger.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/images/icon-add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/images/icon_error_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/images/icon_jt2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/images/icon_right_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/images/icon_warning_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/images/loading_072.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/images/sort_asc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/images/sort_both.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/images/sort_desc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/images/totop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/js/H-ui.admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/js/H-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/lib/Hui-iconfont/1.0.1/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/lib/Hui-iconfont/1.0.1/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/lib/Hui-iconfont/1.0.1/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/lib/Hui-iconfont/1.0.1/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/lib/Hui-iconfont/1.0.1/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/lib/Hui-iconfont/1.0.1/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/lib/icheck/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/lib/icheck/aero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/lib/icheck/aero@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/lib/icheck/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/lib/icheck/blue@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/lib/icheck/green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/lib/icheck/green@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/lib/icheck/grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/lib/icheck/grey@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/lib/icheck/icheck.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/lib/icheck/jquery.icheck.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/lib/icheck/minimal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/lib/icheck/minimal@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/lib/icheck/orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/lib/icheck/orange@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/lib/icheck/pink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/lib/icheck/pink@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/lib/icheck/purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/lib/icheck/purple@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/lib/icheck/red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/lib/icheck/red@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/lib/icheck/yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/lib/icheck/yellow@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/lib/jquery/1.9.1/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/lib/jquery/1.9.1/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/skin/default/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/skin/default/acrossTab-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/skin/default/acrossTab.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/skin/default/icon_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/h-ui/skin/default/skin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/view/attendanceList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/view/clazzList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/view/courseList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/view/leaveList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/view/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/view/personalView.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/view/scoreList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/view/scoreStats.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/view/selectedCourseList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/view/studentList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/view/system.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/view/teacherList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/artifacts/KH56Project_Web_exploded/view/welcome.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/ischoolbar/programmer/servlet/CpachaServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/dao/AdminDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/dao/AttendanceDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/dao/BaseDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/dao/ClazzDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/dao/CourseDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/dao/LeaveDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/dao/ScoreDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/dao/SelectedCourseDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/dao/StudentDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/dao/TeacherDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/db/test.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/filter/LoginFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/model/Admin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/model/Attendance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/model/Clazz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/model/Course.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/model/Leave.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/model/Page.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/model/Score.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/model/SelectedCourse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/model/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/model/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/servlet/AttendanceServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/servlet/ClazzServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/servlet/CourseServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/servlet/LeaveServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/servlet/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/servlet/PhotoServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/servlet/ScoreServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/servlet/SelectedCourseServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/servlet/StudentServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/servlet/SystemServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/servlet/TeacherServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/util/CpachaUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/util/DateFormatUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/util/DbUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/util/SnGenerateUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/KH56Project/com/kgc/util/StringUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sims" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kgc/servlet/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kgc/servlet/LoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/view/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/view/login.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Develop/apache-maven-3.6.1" />
+        <option name="showDialogWithAdvancedSettings" value="true" />
+        <option name="userSettingsFile" value="D:\Develop\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QQP4MlpXHSs0FTBuNYAU8i4YQ1" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/JavaWorkSpace/KH56Project/StudentManagerWeb&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ],
+    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/&quot;: [
+      &quot;MySQL&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\JavaWorkSpace\KH56Project\StudentManagerWeb\web\easyui\js" />
+      <recent name="F:\JavaWorkSpace\KH56Project\StudentManagerWeb\src\com\kgc\dao" />
+      <recent name="F:\JavaWorkSpace\KH56Project\StudentManagerWeb\src\com\kgc\servlet" />
+      <recent name="F:\JavaWorkSpace\KH56Project\StudentManagerWeb\src\com\kgc\model" />
+      <recent name="F:\JavaWorkSpace\KH56Project\StudentManagerWeb\web\WEB-INF\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 7.0.108" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.108" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="StudentManagerWeb:Web exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/StudentManagerWeb" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="43aa38fe-ddc4-4b2c-bf34-94f69a1efc96" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5623" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="StudentManagerWeb:Web exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fd15df9-b287-4741-b1ee-2ea279c199ae" name="Changes" comment="" />
+      <created>1685282643887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685282643887</updated>
+      <workItem from="1685282645055" duration="11992000" />
+      <workItem from="1685332454232" duration="984000" />
+      <workItem from="1685336194438" duration="1100000" />
+      <workItem from="1685338634984" duration="8566000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交代码">
+      <created>1685336567380</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685336567380</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第一次提交代码">
+      <created>1685336607758</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685336607758</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交代码" />
+  </component>
+</project>

@@ -117,7 +117,7 @@
     </form>
   </div>
 </div>
-<div class="footer">Copyright &nbsp; artisan @ 猿来入此 </div>
+<div class="footer">Copyright &nbsp; artisan @ 邵冠宇 </div>
 
 
 </body>

@@ -1,7 +1,7 @@
 package com.kgc.util;
 /**
  * 
- * @author llq
+ * @author sgy
  *String���һЩ���ò�������
  */
 public class StringUtil {

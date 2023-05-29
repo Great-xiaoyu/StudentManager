@@ -20,7 +20,7 @@ import javax.servlet.http.HttpSession;
 /**
  * 
  * @author llq
- *��¼��֤servlet
+ * Loginservlet
  */
 public class LoginServlet extends HttpServlet {
 
